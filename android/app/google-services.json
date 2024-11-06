@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428819832661",
+    "project_id": "deshi-mart-8151c",
+    "storage_bucket": "deshi-mart-8151c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428819832661:android:2b6fe10932e2774d86d9dc",
+        "android_client_info": {
+          "package_name": "com.example.deshi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcc_aRiYlWV2xpQkqWQpS98HxjCKldb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428819832661:android:e6cc1ecd100113c786d9dc",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcc_aRiYlWV2xpQkqWQpS98HxjCKldb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
